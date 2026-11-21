@@ -1,0 +1,10 @@
+:HL["/fairuz-siam-landing/_next/static/chunks/1o8nbca75iack.css","style"]
+:HL["/fairuz-siam-landing/_next/static/media/861d9be630ba44be-s.p.0da8nscnv1nkd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairuz-siam-landing/_next/static/media/8a0c322f60e47dd1-s.p.3ihiqn4pviisd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairuz-siam-landing/_next/static/media/941d061a2bd9e7fe-s.p.3ik2qu-u9tgho.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairuz-siam-landing/_next/static/media/9d473eb2c81ea1b1-s.p.33u8lzvd44aqk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairuz-siam-landing/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairuz-siam-landing/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fairuz-siam-landing/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"XEVTL9qqe4Mpy7KJDUFJ5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
